@@ -1,15 +1,8 @@
 - 👋 Hi, I’m @otaviocalado
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-otaviocalado/otaviocalado is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in web developing
+- 🌱 I’m currently learning Angular
+- 💞️ I’m looking to collaborate on GEEN Projects
+- 📫 How to reach me email
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/otaviocalado/otaviocalado/output/github-contribution-grid-snake-dark.svg">
